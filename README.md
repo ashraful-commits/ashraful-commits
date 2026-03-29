@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashraful Alam</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | Next.js | Shopify App Specialist</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN | Next.js | Shopify App Developer</h3>
 
 ---
 
@@ -20,12 +20,14 @@ I don’t just write code — I build solutions that generate revenue 💡
 - React.js
 - Remix.run
 - Tailwind CSS
+- Bootstrap
 
 ### 🔹 Backend
 - Node.js
 - Express.js
 - MongoDB
 - Prisma ORM
+- Postgresql
 
 ### 🔹 Shopify Development
 - Custom Shopify Apps (Remix / Node)
