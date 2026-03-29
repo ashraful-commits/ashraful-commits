@@ -1,71 +1,74 @@
 <h1 align="center">Hi 👋, I'm Ashraful Alam</h1>
-<h3 align="center">🚀 MERN Stack Developer | Next.js Learner | Shopify App Specialist</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN | Next.js | Shopify App Specialist</h3>
 
 ---
 
-## 🧑‍💻 About Me
-- 💻 Full Stack Developer (MERN)
-- ⚡ Experienced in React, Next.js & API Integration
-- 🛒 Shopify App Development & Custom Solutions
-- 🔐 Interested in Cybersecurity & Bug Bounty
-- 📍 Based in Bangladesh
-- 📫 Email: corporate3@skill.jobs
+## 🧑‍💼 Professional Summary
+
+Looking for a high-end developer to handle complex projects or a long-term tech partner?
+
+I specialize in building **scalable web applications**, **custom Shopify apps**, and **modern full-stack solutions** that drive real business results.
+
+I don’t just write code — I build solutions that generate revenue 💡
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-### 🚀 Frontend
+### 🔹 Frontend
+- Next.js (SSR / ISR)
 - React.js
-- Next.js
+- Remix.run
 - Tailwind CSS
-- Redux Toolkit
 
-### ⚙️ Backend
+### 🔹 Backend
 - Node.js
 - Express.js
-
-### 🗄️ Database
 - MongoDB
+- Prisma ORM
 
-### 🔧 Tools
-- Git & GitHub
-- Docker (Basic)
-- Postman
-- Linux
-
----
-
-## 📌 Projects
-
-### 🔹 E-commerce Platform
-- Full MERN stack project
-- Admin dashboard
-- Authentication & API integration
-
-### 🔹 Shopify Custom Apps
-- Custom features development
-- Performance optimization
-
-### 🔹 Learning Management System
-- Built with modern UI & scalable backend
+### 🔹 Shopify Development
+- Custom Shopify Apps (Remix / Node)
+- Liquid
+- Private & Public Apps
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 What I Can Do
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashraful-commits&show_icons=true&theme=radical" />
-</p>
+- Build scalable full-stack applications
+- Develop high-performance Shopify apps
+- API development & integration
+- SaaS & startup product development
+- Performance optimization & SEO (Next.js)
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Collaboration Models
 
-- 💼 LinkedIn: https://www.linkedin.com/in/dev-ashraful
-- 🐙 GitHub: https://github.com/ashraful-commits
+- ✅ Project-based contracts  
+- ✅ Monthly / Retainer contracts  
+- ✅ Partnership (for SaaS / Shopify ideas)
+
+---
+
+## 📌 Why Work With Me?
+
+- 💡 Business-focused development mindset  
+- ⚡ Clean, scalable & maintainable code  
+- 🚀 Fast delivery with quality  
+- 🤝 Long-term reliable partner  
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: devashraf01@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/dev-ashraful  
+- 🐙 GitHub: https://github.com/ashraful-commits  
 
 ---
 
 ## ⚡ Goal
-Become a high-level Full Stack Engineer & Security Expert 🚀
+
+To become a top-tier Full Stack Engineer & build impactful global products 🌍
